@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<quicktipParameter>
+    <numberOfBoards>5</numberOfBoards>
+    <algorithm>3</algorithm>
+    <boardSize>5</boardSize>
+    <setOfNumbers>90</setOfNumbers>
+</quicktipParameter>
